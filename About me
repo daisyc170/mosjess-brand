@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head> 
+    <link rel ="stylesheet" href="styles.css"/>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content= "IE edge">
+    <title>ABOUT ME</title>
+    <style>
+        a{
+            padding: 100px;
+            color: white;
+            text-decoration: none;
+
+        }
+        a:hover{
+            background-color: #A0C0E6;
+        }
+    </style>
+</head>
+<body>
+    <p> MosJess was created 
+    <body>
+        <a href="Aboutme.html" target="_parent">About me </a>
+    
+        <a href="Merch.html" target="_parent">Merch</a>
+    
+        <a href="SocialMedia.html" target="_parent">Social Media</a>
+        
+        <a href="ReleasingDate.html" target="_parent">Releasing Date</a>
+</body>      
+</html>
